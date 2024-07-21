@@ -1,0 +1,33 @@
+{
+  "$id": "1",
+  "AutoRefresh": true,
+  "AutoRefreshRemotes": true,
+  "CommitTextLinks": null,
+  "DraftCommitMsg": null,
+  "IncomingSavedCount": 0,
+  "LastCheckedRemotes": "2024-04-11T03:52:46.430596+01:00",
+  "LastUsedView": 0,
+  "LogBranchFilterIndex": 0,
+  "OutgoingSavedCount": 0,
+  "SidebarExpandedItems": [
+    "Branches"
+  ],
+  "SidebarWidth": 210.0,
+  "SubtreeLinks": [],
+  "NeedsLargeFilesPull": false,
+  "RemoteProjectLinks": [
+    {
+      "$id": "2",
+      "BaseUrl": "https://bitbucket.org",
+      "Identifier": "theholebox/agenda",
+      "RemoteName": "origin",
+      "Type": 1,
+      "Username": "Khrystyna0106",
+      "CloneUrl": null,
+      "ProjectUrl": null,
+      "AccountId": "Khrystyna0106@bitbucket.org",
+      "AvatarUrl": null,
+      "DisplayName": "origin: https://bitbucket.org"
+    }
+  ]
+}
